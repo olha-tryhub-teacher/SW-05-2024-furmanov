@@ -196,9 +196,11 @@ footer div img{
 }
 
 .details:hover{
-/* додати стилі для кнопки ДЕТАЛЬНІШЕ */
+    background-color: #f0f0f0;
+    color: #333;
 }
 
 .nav-link:hover{
-    /* додати стилі для кнопки ДЕТАЛЬНІШЕ */
+    text-decoration: underline;
+    color: #007bff;
 }
